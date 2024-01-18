@@ -18,11 +18,6 @@
     { "name": "Hiking" },
     { "name": "Tennis" }
   ]
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ]
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
