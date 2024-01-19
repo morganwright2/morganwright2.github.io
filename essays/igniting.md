@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: <p style="color:red;"> **"Why I Chose to Study MIS"** </p>
+title: <p style="color:pink;"> **Why I Chose to Study MIS** </p>
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
