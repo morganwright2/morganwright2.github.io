@@ -1,6 +1,7 @@
+```json
 {
   "basics": {
-    "name": "Morgan Wright"
+    "name": "Morgan Wright",
     "label": "Shidler Undergraduate",
     "picture": "https://github.com/morganwright2.png",
     "email": "wright25@hawaii.edu",
@@ -25,17 +26,15 @@
       "studyType": "B.B.A.",
       "startDate": "2021-06-14",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
-     {
+    {
       "institution": "London School of Economics",
       "area": "Accounting",
       "studyType": "Summer Program",
       "startDate": "2023-06-14",
       "endDate": "2023-07-14",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -45,9 +44,9 @@
       "website": "",
       "startDate": "2023-06-14",
       "endDate": "2023-12-15",
-      "summary": "Assisted the teaching assistant in ICS 101. Created a lesson plan and taught a class. Ensured the class moved smoothly by helping out students during class and in after school office hours.",
+      "summary": "Assisted the teaching assistant in ICS 101. Created a lesson plan and taught a class. Ensured the class moved smoothly by helping out students during class and in after-school office hours.",
       "highlights": [
-        "Hands on work helping students."
+        "Hands-on work helping students."
       ]
     }
   ],
@@ -56,7 +55,7 @@
       "title": "Deans List",
       "date": "2021-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Recongnition given to students for acheiving high academic performance during a semester."
+      "summary": "Recognition given to students for achieving high academic performance during a semester."
     }
   ],
   "references": [
