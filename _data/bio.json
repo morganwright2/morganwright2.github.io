@@ -1,1 +1,67 @@
-
+{
+  "basics": {
+    "name": "Morgan Wright"
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/morganwright2.png",
+    "email": "wright25@hawaii.edu",
+    "phone": "707-666-1854",
+    "website": "https://morganwright2.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "morganwright2", "url": "http://github.com/morganwright2" },
+      { "network": "linkedin", "username": "morgan-wright-88660a282", "url": "http://linkedin.com/in/morgan-wright-88660a282" }
+    ]
+  },
+  "interests": [
+    { "name": "Information Systems" },
+    { "name": "Tennis" },
+    { "name": "Hiking" }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-06-14",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "London School of Economics",
+      "area": "Accounting",
+      "studyType": "Summer Program",
+      "startDate": "2023-06-14",
+      "endDate": "2023-07-14",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "ICS 101 Assistant Teaching Assistant",
+      "website": "",
+      "startDate": "2023-06-14",
+      "endDate": "2023-12-15",
+      "summary": "Assisted the teaching assistant in ICS 101. Created a lesson plan and taught a class. Ensured the class moved smoothly by helping out students during class and in after school office hours.",
+      "highlights": [
+        "Hands on work helping students."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Deans List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Recongnition given to students for acheiving high academic performance during a semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
