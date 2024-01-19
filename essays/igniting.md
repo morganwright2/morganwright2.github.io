@@ -4,7 +4,7 @@ type: essay
 title: <p style="color:lightcoral;"> Why I Chose to Study MIS </p>
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
-published: false
+published: true
 labels:
   - E0
   - Introduction
