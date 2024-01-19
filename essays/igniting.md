@@ -1,19 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why I Chose to Study MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-01-18
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - E0
+  - Introduction
+  - MIS
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Up until a year ago I had no idea that the subject Management Information Systems existed, I always thought it was either business or computer science and no in between. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+After taking ICS 101 and really enjoying the material, I decided to become an ATA for the class to strengthen my knowledge on the subject. Creating the HTML website was so much fun for me and that was when I realized I finally found something I have a passion for. At this point I still had no idea the subject MIS existed.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I then met with my counselor and explained how I was feeling and was conflicted to leave the business program for computer science but I knew I wanted something along those lines. This is when I learned of MIS, the perfect combination of business and CS and my mind was instantly set. I have always enjoyed the behind the scenes work of how websites and servers work and am so excited to finally being my journey in learninng it all!
