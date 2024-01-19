@@ -21,9 +21,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-04-14",
       "endDate": "Present",
       "courses": [
       ]
@@ -31,15 +31,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa",
+      "position": "ICS 101 Assistant Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-06-14",
+      "endDate": "2023-12-15",
+      "summary": "Assisted the teaching assistant and professor in ICS 101. Created a lesson plan and taught a class. Ensured the class moved smoothly by helping out students duriing class and in after school office hours.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Hands on work with helping students."
       ]
     },
     {
