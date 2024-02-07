@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: <p style="color:lightcoral;"> UI Basics Technical Essay </p>
+title: UI Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-29
 published: true
