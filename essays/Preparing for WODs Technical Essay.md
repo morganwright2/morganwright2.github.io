@@ -14,9 +14,6 @@ labels:
 The WOD, Invoice 1, was focused on creating a dynamic sales reciept that has defined variables and equations so that changing the numbers only involves changing the defined versus having to go through the entire HTML and manually changing every number. 
 
 Here is the link to the Invoice 1 WOD page for more details. 
-<a href="url">https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html</a>
-<a href="url">dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html</a>
-
 <a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html">Click here to view Invoice 1 WOD</a>
 
 In perforning this WOD, the entire process went decently smooth. It felt like everything started to click and it all just made sense. The math equations to compute the total and tax made perfect sense as to why they needed to be exectued that way. Somethings that slowed me down were that the direction of the slashes before a comment matters and the intricacy of finding where to adjust the code when adding the script to the table took me an extra moment. 
