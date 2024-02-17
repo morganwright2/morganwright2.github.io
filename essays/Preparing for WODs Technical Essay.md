@@ -14,7 +14,7 @@ labels:
 \\Provide a brief introduction to the WOD along with a link to the WOD page for further details
 
 The WOD, Invoice 1, was focused on creating a dynamic sales reciept that has defined variables and equations so that changing the numbers only involves changing the defined versus having to go through the entire HTML and manually changing every number. 
-https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+<a href="url">https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html</a>
 
 \\Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
 
