@@ -8,7 +8,7 @@ published: true
 labels:
   - E5
   - Reflection
-  - Assignent 2
+  - Assignment 2
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details
