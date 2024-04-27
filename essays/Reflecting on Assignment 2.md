@@ -12,10 +12,9 @@ labels:
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details
+    <a href=" https://assignment2-421506.wm.r.appspot.com">Click here to view Assignment 2</a>
 
-  <a href=" https://assignment2-421506.wm.r.appspot.com">Click here to view Assignment 2</a>
-
-  In assignment 2 we are elevating almost every aspect from assignment 1 to transform the page into something you would typically see when making a purchase online. Every time from logging in/registration to your user data having to follow specific parameters. We also focused on some security aspects to ensure the safety of the site and our other users' data.
+    In assignment 2 we are elevating almost every aspect from assignment 1 to transform the page into something you would typically see when making a purchase online. Every time from logging in/registration to your user data having to follow specific parameters. We also focused on some security aspects to ensure the safety of the site and our other users' data.
 
 2. What did you learn from this assignment?
   From this assignment, I learned that the tasks that seem to be the most grueling and difficult tend to be the easiest and it is just a matter of understanding the code you have and the parameters of that code so you can build off of it. I also learned how much goes into protecting the user's data and pushing the users from one page to the next depending on where they are at in their process.
