@@ -7,7 +7,8 @@ date: 2024-04-11
 published: true
 labels:
   - E5
-  - Reflecting on Assignment 2
+  - Reflection
+  - Assignent 2
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details
