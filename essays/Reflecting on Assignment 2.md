@@ -11,9 +11,8 @@ labels:
   - Assignment 2
 ---
 
-1. Provide a brief introduction to the assignment along with a link to this page for further details
+1. Provide a brief introduction to the assignment along with a link to this page for further details.
     <a href=" https://assignment2-421506.wm.r.appspot.com">Click here to view Assignment 2</a>
-
     In assignment 2 we are elevating almost every aspect from assignment 1 to transform the page into something you would typically see when making a purchase online. Every time from logging in/registration to your user data having to follow specific parameters. We also focused on some security aspects to ensure the safety of the site and our other users' data.
 
 2. What did you learn from this assignment?
