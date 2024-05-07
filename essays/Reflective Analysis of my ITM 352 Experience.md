@@ -19,6 +19,9 @@ labels:
     Experiencing and understanding first-hand project management, working in teams, software development issues
     Gaining confidence in addressing MIS problems
     For each of the above goals, explain what stands out in your class experience that indicates you have met that goal. You do not need to be comprehensive but do be specific. You should make each goal a sub-section.
+        In ITM 352, we dove into programming essentials and seeing how they fit into the broader landscape of IT and MIS. Through hands-on projects, like our assignment 1 and 2, and collaborative problem-solving, like working on our labs in class, I gained practical experience in software development and encountered various MIS challenges. Engaging in project management tasks and teamwork helped solidified my basic understanding of how IT solutions are implemented in real-world settings. Overall, this experience has sky rocketed my confidence in addressing complex problems effectively.             
+
+
 
 2. Course Elements and Personal Engagement
     What did you learn from creating a professional portfolio and using it in ITM 352?
@@ -63,3 +66,4 @@ labels:
     Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.
         The potential impacts these skills will have on my career, especially in terms of understanding and addressing MIS problems, will be extremely beneficial due to the fact that I now know what to look for in addressing problems and also techniques like slowly coding and constantly checking back to help prohibit as many dumb mistakes as possible.
     Reflect on the overall value of the course in your educational journey and future career.
+        Overall, this course in my educational journey and future career has taught me so much in terms of coding/web design all the way to just how to deal with a difficult problem. My skills in things like HTML, CSS, and JavaScript have increased more than I knew were possible. I also have an entirely different way of looking at frustration, instead of getting mad I find it exciting to face on a new challenge and learn more. Although this class had me extremely frustrated at times, it has been worth so much in the long run on the skills that I have gained.
